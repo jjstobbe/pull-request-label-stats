@@ -1,0 +1,14 @@
+{
+  "name": "pull-request-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Stobbe",
+  "license": "MIT",
+  "dependencies": {
+    "octonode": "^0.9.5"
+  }
+}

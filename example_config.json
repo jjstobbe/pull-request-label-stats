@@ -1,0 +1,13 @@
+{
+    "githubAuthToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "label": "some label",
+    "pullRequestState": "closed",
+    "domain": "facebook",
+    "repositoriesToSearch": [
+        "react",
+        "draft-js",
+        "jest",
+        "flow",
+        "react-native"
+    ]
+}
